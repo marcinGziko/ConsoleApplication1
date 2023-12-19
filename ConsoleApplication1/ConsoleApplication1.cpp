@@ -8,4 +8,7 @@ void powitanie() {
 int main()
 {
     powitanie();
+    for (int i = 0; i > 10; i++) {
+        cout << "karol kris\n";
+    }
 }

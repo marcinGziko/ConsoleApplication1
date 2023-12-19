@@ -3,6 +3,8 @@ using namespace std;
 
 void powitanie() {
     cout << "elo elo elo elo elo\n";
+    int x;
+    string tekst;
 }
 
 int main()
